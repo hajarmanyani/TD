@@ -1,6 +1,6 @@
 #pragma once
 
-class Compte {c
+class Compte {
 	//attribus
 private:
 	int numcompte;
